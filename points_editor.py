@@ -266,4 +266,5 @@ class MasterEditor(QWidget):
 # main_window.layout_main = QHBoxLayout()
 # splitter_main = QSplitter(Qt.Horizontal)
 # main_window.layout_main.addWidget(splitter_main)
+
 # plt.show()
